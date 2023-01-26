@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+JS Next.js Capybara blog converted into TS Next.js
